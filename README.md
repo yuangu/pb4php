@@ -1,5 +1,5 @@
 Protocol Buffer for PHP  (缩写为pb4php) 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+==========================================================
 ##说明
 pb4php是一个"Google Protocol Buffer" 的php实现。至于Google Protocol Buffer是什么？请[百度](http://www.baidu.com)请[Google](http:://www.google.com.tw)吧<br \>
 
